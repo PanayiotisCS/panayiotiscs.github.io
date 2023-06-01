@@ -3,6 +3,10 @@ author:
   name: Panayiotis Melios
   email: "panayiotis.cs@gmail.com"
 
+exclude:
+  - LICENSE
+  - README.md
+  
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
