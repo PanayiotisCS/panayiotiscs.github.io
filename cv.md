@@ -7,15 +7,42 @@ title: CV
 
 {% include contact.html %}
 
-## Section
+## Experience
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**1/2023 - 5/2023**
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+**Teaching Assistant**, Department of Computer Science, University of Cyprus
 
-### Subsection
+* Assisted in teaching an introductory course in python.
+* Providing support to students in understanding programming concepts and principles.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**10/2022 - PRESENT**
+
+**Special Scientist - Web Developer**, University of Cyprus
+
+* Development of the eHealth application of the biobank.cy project.
+
+**6/2022 - 09/2022**
+
+**Part-time Special Scientist - Web Developer**, University of Cyprus
+
+* Development of the eHealth application of the biobank.cy project.
+
+**6/2021 - 08/2021**
+
+**Intern Task Creator**, Qiiwi Games LTD
+
+**6/2020 - 08/2020**
+
+**Intern Web Developer**, Darkpony LTD
+
+
+## Education
+
+**2021 - 2022**
+
+**Msc Software Enginering**, Swansea University, South Wales
+
+**2016 - 2021**
+
+**Bachelor of Computer Science**, University of Cyprus
