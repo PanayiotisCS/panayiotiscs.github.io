@@ -8,7 +8,7 @@ title: CV
 {% include contact.html %}
 
 ## Experience
-
+---
 **1/2023 - 5/2023**
 
 **Teaching Assistant**, Department of Computer Science, University of Cyprus
@@ -38,7 +38,7 @@ title: CV
 
 
 ## Education
-
+---
 **2021 - 2022**
 
 **Msc Software Enginering**, Swansea University, South Wales
